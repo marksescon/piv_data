@@ -1,30 +1,30 @@
-"Attempts \[Attempt 1\]","Attempts \[Attempt 2\]","Attempts \[Attempt 3\]","Attempts \[Attempt 4\]","Attempts \[Attempt 5\]","Success","Which Attempt \# was successful?","Was IV access obtained?","If IV access obtained, right or left arm?","If IV access obtained on a limb, which landmark?"
-"Ultrasound","Ultrasound","Ultrasound","","","Ultrasound","Attempt 3","No","",""
-"Ultrasound","","","","","Ultrasound","Attempt 1","Yes","Right Arm","Upper Arm"
-"Ultrasound","","","","","Ultrasound","Attempt 1","Yes","Left Arm","Forearm"
-"Ultrasound","Ultrasound","Translumination","Translumination","","Translumination","Attempt 4","Yes","Left Arm","Hand"
-"Ultrasound","Ultrasound","","","","Ultrasound","Attempt 2","Yes","Left Arm","Upper Arm"
-"Ultrasound","","","","","Ultrasound","Attempt 1","Yes","Right Arm","Upper Arm"
-"Ultrasound","Ultrasound","Ultrasound","","","","","No","",""
-"Ultrasound","","","","","Ultrasound","Attempt 1","Yes","Left Arm","Upper Arm"
-"Translumination","Translumination","Translumination","","","","","No","",""
-"Ultrasound","","","","","Ultrasound","Attempt 1","Yes","Left Arm","Forearm"
-"Ultrasound","","","","","Ultrasound","Attempt 1","Yes","Left Arm","Upper Arm"
-"Ultrasound","Translumination","","","","","","No","",""
-"Ultrasound","","","","","Ultrasound","Attempt 1","Yes","Right Arm","Upper Arm"
-"Ultrasound","","","","","","","No","",""
-"Ultrasound","","","","","Ultrasound","Attempt 1","Yes","Left Arm","Upper Arm"
-"Translumination","","","","","Translumination","Attempt 1","Yes","Right Arm","Forearm"
-"Ultrasound","Ultrasound","","","","","","No","",""
-"Ultrasound","","","","","Ultrasound","Attempt 1","Yes","Left Arm","Upper Arm"
-"Ultrasound","","","","","Ultrasound","Attempt 1","Yes","Right Arm","Forearm"
-"Ultrasound","","","","","Ultrasound","Attempt 1","Yes","Left Arm","Forearm"
-"Ultrasound","","","","","Translumination","Attempt 1","Yes","Left Arm","Hand"
-"Ultrasound","","","","","Ultrasound","Attempt 1","Yes","Left Arm","Upper Arm"
-"Ultrasound","","","","","Ultrasound","Attempt 1","Yes","Right Arm","Upper Arm"
-"Ultrasound","Ultrasound","","","","Ultrasound","Attempt 2","Yes","Left Arm","Upper Arm"
-"Ultrasound","Ultrasound","","","","Ultrasound","Attempt 2","Yes","Left Arm","Upper Arm"
-"Ultrasound","","","","","Ultrasound","Attempt 1","Yes","Left Arm","Forearm"
-"Ultrasound","","","","","Ultrasound","Attempt 1","Yes","Left Arm","Forearm"
-"Ultrasound","Ultrasound","","","","Ultrasound","Attempt 2","Yes","Right Arm","Upper Arm"
-"Ultrasound","","","","","Ultrasound","Attempt 1","Yes","Left Arm","Forearm"
+Attempts [Attempt 1],Attempts [Attempt 2],Attempts [Attempt 3],Attempts [Attempt 4],Attempts [Attempt 5],Success,Which Attempt # was successful?,Was IV access obtained?,"If IV access obtained, right or left arm?","If IV access obtained on a limb, which landmark?"
+Ultrasound,Ultrasound,Ultrasound,,,Ultrasound,Attempt 3,No,,
+Ultrasound,,,,,Ultrasound,Attempt 1,Yes,Right Arm,Upper Arm
+Ultrasound,,,,,Ultrasound,Attempt 1,Yes,Left Arm,Forearm
+Ultrasound,Ultrasound,Translumination,Translumination,,Translumination,Attempt 4,Yes,Left Arm,Hand
+Ultrasound,Ultrasound,,,,Ultrasound,Attempt 2,Yes,Left Arm,Upper Arm
+Ultrasound,,,,,Ultrasound,Attempt 1,Yes,Right Arm,Upper Arm
+Ultrasound,Ultrasound,Ultrasound,,,,,No,,
+Ultrasound,,,,,Ultrasound,Attempt 1,Yes,Left Arm,Upper Arm
+Translumination,Translumination,Translumination,,,,,No,,
+Ultrasound,,,,,Ultrasound,Attempt 1,Yes,Left Arm,Forearm
+Ultrasound,,,,,Ultrasound,Attempt 1,Yes,Left Arm,Upper Arm
+Ultrasound,Translumination,,,,,,No,,
+Ultrasound,,,,,Ultrasound,Attempt 1,Yes,Right Arm,Upper Arm
+Ultrasound,,,,,,,No,,
+Ultrasound,,,,,Ultrasound,Attempt 1,Yes,Left Arm,Upper Arm
+Translumination,,,,,Translumination,Attempt 1,Yes,Right Arm,Forearm
+Ultrasound,Ultrasound,,,,,,No,,
+Ultrasound,,,,,Ultrasound,Attempt 1,Yes,Left Arm,Upper Arm
+Ultrasound,,,,,Ultrasound,Attempt 1,Yes,Right Arm,Forearm
+Ultrasound,,,,,Ultrasound,Attempt 1,Yes,Left Arm,Forearm
+Ultrasound,,,,,Translumination,Attempt 1,Yes,Left Arm,Hand
+Ultrasound,,,,,Ultrasound,Attempt 1,Yes,Left Arm,Upper Arm
+Ultrasound,,,,,Ultrasound,Attempt 1,Yes,Right Arm,Upper Arm
+Ultrasound,Ultrasound,,,,Ultrasound,Attempt 2,Yes,Left Arm,Upper Arm
+Ultrasound,Ultrasound,,,,Ultrasound,Attempt 2,Yes,Left Arm,Upper Arm
+Ultrasound,,,,,Ultrasound,Attempt 1,Yes,Left Arm,Forearm
+Ultrasound,,,,,Ultrasound,Attempt 1,Yes,Left Arm,Forearm
+Ultrasound,Ultrasound,,,,Ultrasound,Attempt 2,Yes,Right Arm,Upper Arm
+Ultrasound,,,,,Ultrasound,Attempt 1,Yes,Left Arm,Forearm
