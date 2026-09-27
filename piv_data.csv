@@ -60,3 +60,7 @@ Ultrasound,,,,,Ultrasound,Attempt 1,Yes,Left Arm,Forearm
 Ultrasound,,,,,Ultrasound,Attempt 1,Yes,Right Arm,Forearm
 Ultrasound,,,,,Ultrasound,Attempt 1,Yes,Right Arm,Upper Arm
 Ultrasound,,,,,Ultrasound,Attempt 1,Yes,Left Arm,Upper Arm
+Ultrasound,,,,,Ultrasound,Attempt 1,Yes,Left Arm,Forearm
+Translumination,,,,,Translumination,Attempt 1,Yes,Right Arm,Forearm
+Ultrasound,,,,,Ultrasound,Attempt 1,Yes,Left Arm,Upper Arm
+Translumination,Ultrasound,,,,Ultrasound,Attempt 2,Yes,Right Arm,Upper Arm
